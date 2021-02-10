@@ -1,11 +1,23 @@
 html{
-
-}
-body{
-
-}
-div .nav a{
-    display:inline;
-
-
-}
+    font-size:62.5%;
+  
+  }
+  body{
+    font-size:1.6rem;
+    line-height:1.5;
+  }
+   .headimg{
+      display: inline-block;
+      border-radius: 50%;
+  }
+  nav a{
+      display: inline-block;
+      margin:0 4%;
+      background-color: orangered;
+      color:whitesmoke;
+      border-radius: 15%;
+      padding:2% 5% 2% 5%;
+      }
+.imgbytxt{
+      display: inline-block;
+  }
