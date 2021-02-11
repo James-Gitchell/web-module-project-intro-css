@@ -1,6 +1,6 @@
 html{
     font-size:62.5%;
-  
+  background-color: lightcyan;
   }
   body{
     font-size:1.6rem;
@@ -8,9 +8,10 @@ html{
   }
    .headimg{
       display: inline-block;
-      border-radius: 50%;
+      border-radius:0 50%;
+      width: 50%;
   }
-  nav a{
+  nav a, .footer a{
       display: inline-block;
       margin:0 4%;
       background-color: orangered;
@@ -20,4 +21,19 @@ html{
       }
 .imgbytxt{
       display: inline-block;
+      width:50%;
   }
+
+  .image-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+//!--<div style="width: 100%;">
+<div style="width: 50%; height: 100px; float: left; background: green;"> 
+    Left Div 
+</div>
+<div style="margin-left: 50%; height: 100px; background: blue;">  --//
