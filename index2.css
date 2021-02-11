@@ -1,0 +1,19 @@
+*{
+    font-size:62.5%;
+    max-width:100%;
+    color:rgba(85, 24, 252, 0.185);
+}
+/*
+header div p{
+    width:30%;
+display: inline-block;
+border:1em solid black;
+background-size: ;
+} */
+
+.plan 
+width:30%;
+display: inline-block;
+border:1em solid black;
+background-size:10px solid black ;
+}
