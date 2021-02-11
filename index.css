@@ -1,0 +1,62 @@
+/*   !!I am attempting a redo with index2 html and css to see if I can
+do it this way, I am curious what will happen!!
+
+*{
+  box-sizing: border-box;
+  max-width: 100%;
+  }
+
+html{
+    font-size:62.5%;
+  background-color: lightcyan;
+  }
+
+  body{
+    font-size:1.6rem;
+    line-height:1.5;
+  }
+  nav a, .footer a{
+    display: inline-block;
+    margin:0 4%;
+    background-color: orangered;
+    color:whitesmoke;
+    border-radius: 15%;
+    padding:2% 5% 2% 5%;
+    text-align: center;
+    }
+    div img, .textbyimg{
+      display:inline-block;
+      width:30%;
+    }
+
+   div .headimg img{
+      display: inline-block;
+      border-radius:50%;
+      width: 45%;
+      margin-top:10%;
+  }
+    
+  }div img, .textbyimg{
+      display:inline-block;
+      width:30%;
+
+ 
+#wth{
+  width:100%;
+  text-align: center;
+  display: inline-block;
+}
+  }
+.footer a{
+  display: inline-block;
+  width:33% ;
+}
+.footerpic{
+  width: 100%;
+  height: 40vh;
+  background-image:url(assets/footer_img.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;}
+}
+*/
